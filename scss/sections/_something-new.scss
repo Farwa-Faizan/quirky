@@ -1,0 +1,13 @@
+@use '../custom' as *;
+
+.text-11{
+    color: $dark;
+    line-height: 3rem;
+    margin-top: 2rem;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 4rem;
+    span{
+        color: $orangee;
+    }
+}

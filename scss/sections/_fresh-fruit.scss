@@ -1,0 +1,39 @@
+@use '../custom' as *;
+
+.text-7{
+        color: $dark;
+        line-height: 3rem;
+        margin-top: 3rem;
+        font-size: 3rem;
+        font-weight: 900;
+        span{
+            color: $orangee;
+        }
+}
+.stain1{
+    margin-left: -5rem;
+    margin-top: -3rem;
+}
+.stain2{
+    margin-right: -29rem;
+    margin-top: -17rem;
+}
+.all-pic{
+    margin-top: -6rem;
+}
+.stars{
+    color: $orangee;
+    font-size: 1rem;
+}
+.text-8{
+    color: $dark;
+    line-height: 3rem;
+    font-size: 3rem;
+    font-weight: 900;
+    span{
+        color: $orangee;
+    }
+}
+.smiley{
+    margin-top: 9rem;
+}

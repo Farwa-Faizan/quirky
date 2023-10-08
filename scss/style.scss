@@ -1,0 +1,21 @@
+
+@use 'custom';
+
+// IMPORT THE COMPONENTS
+@use 'components/animations'; 
+@use 'components/buttons'; 
+@use 'components/mixins'; 
+@use 'components/typography';
+
+// IMPORT THE SECTIONS
+@use 'sections/navbar'; 
+@use 'sections/intro-section'; 
+@use 'sections/deliciously'; 
+@use 'sections/favourites'; 
+@use 'sections/flavours'; 
+@use 'sections/fresh-fruit'; 
+@use 'sections/register'; 
+@use 'sections/something-new'; 
+@use 'sections/footer'; 
+@use 'sections/stars'; 
+@use 'sections/summer'; 

@@ -1,0 +1,18 @@
+@use '../custom' as *;
+
+
+ 
+.text-9{
+    color: $naav;
+    margin-top: 8rem;
+    font-size: 3rem;
+    font-weight: 900;
+    span{
+        color: $orangee;
+    }
+}
+.form{
+margin-left: 12rem;
+margin-right: 12rem;
+
+}

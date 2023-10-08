@@ -1,0 +1,17 @@
+@use '../custom' as *;
+
+.flavours{
+    background-image: url(../../images/flavours/flavours-bg.png);
+    .text-5{
+        color: $naav;
+        font-weight: 800;
+        font-size: 2rem;
+        text-transform: capitalize;
+    }
+    .text6{
+        color: $light;
+        font-weight: 800;
+        font-size: 2.5rem;
+        text-transform: capitalize;
+    }
+}

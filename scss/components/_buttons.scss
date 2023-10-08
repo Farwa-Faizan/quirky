@@ -1,0 +1,32 @@
+@use '../custom' as *;
+
+.btn-rounded{
+    @include media-breakpoint-down(sm){
+    display:none;
+    }
+    position:relative;
+    width: 9rem;
+    height: 1.8rem;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    border-radius: 2rem;
+}
+.cart{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.more{
+    width: 12rem;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.freshyy{
+    border-radius: 1rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    width: 11rem;
+    font-size: 1rem; 
+}

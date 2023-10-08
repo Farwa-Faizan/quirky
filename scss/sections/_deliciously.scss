@@ -1,0 +1,11 @@
+@use '../custom' as *;
+
+.deliciously{
+    background-color: $bluee;
+    .del-p{
+        font-size: 1.1rem;
+    }
+    .piic{
+        margin-left:-4rem;
+    }
+}

@@ -1,0 +1,16 @@
+@use '../custom' as *;
+
+#summer{
+
+    .del-pp{
+        margin-left: 1rem;
+    }
+    .sm{      
+    margin-left: 1rem;
+    }
+    .display-2{
+        span{
+            color: $orangee;
+        }
+    }
+}
